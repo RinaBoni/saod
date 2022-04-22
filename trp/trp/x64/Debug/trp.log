@@ -1,0 +1,3 @@
+﻿  trp.cpp
+C:\Users\User\Desktop\rb\trp\trp\trp.cpp(59,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  trp.vcxproj -> C:\Users\User\Desktop\rb\trp\x64\Debug\trp.exe

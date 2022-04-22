@@ -1,0 +1,10 @@
+﻿  rb1.cpp
+C:\Users\User\Desktop\rb\rb1\rb1\Search.h(80,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\rb\rb1\rb1\rb1.cpp(60): message : выполняется компиляция ссылки на экземпляр шаблон функции "int search_binary<int>(std::vector<int,std::allocator<int>> &,T)"
+          with
+          [
+              T=int
+          ]
+C:\Users\User\Desktop\rb\rb1\rb1\Search.h(114,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Desktop\rb\rb1\rb1\rb1.cpp(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "void fill_rand_vector<int>(std::vector<int,std::allocator<int>> &)"
+  rb1.vcxproj -> C:\Users\User\Desktop\rb\rb1\x64\Debug\rb1.exe
