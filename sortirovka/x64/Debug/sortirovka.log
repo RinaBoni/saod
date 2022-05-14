@@ -1,0 +1,31 @@
+﻿  main.cpp
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(20,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(38,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(52,10): error C2371: start: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(37): message : см. объявление "start"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(54,10): error C2371: end: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(39): message : см. объявление "end"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(56,30): error C2374: count: переопределение; множественная инициализация
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(41): message : см. объявление "count"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(56,42): error C2088: -: недопустимо для class
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(68,10): error C2371: start: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(37): message : см. объявление "start"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(70,10): error C2371: end: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(39): message : см. объявление "end"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(72,30): error C2374: count: переопределение; множественная инициализация
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(41): message : см. объявление "count"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(72,42): error C2088: -: недопустимо для class
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(84,10): error C2371: start: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(37): message : см. объявление "start"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(86,10): error C2371: end: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(39): message : см. объявление "end"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(88,30): error C2374: count: переопределение; множественная инициализация
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(41): message : см. объявление "count"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(88,42): error C2088: -: недопустимо для class
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(100,10): error C2371: start: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(37): message : см. объявление "start"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(102,10): error C2371: end: переопределение; различные базовые типы
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(39): message : см. объявление "end"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(104,30): error C2374: count: переопределение; множественная инициализация
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(41): message : см. объявление "count"
+C:\Users\User\Documents\учеба\4 семестр\саод\sortirovka\main.cpp(104,42): error C2088: -: недопустимо для class
