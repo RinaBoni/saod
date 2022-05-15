@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\ex.h(53,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\postfix.h(39,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\postfix.h(34,8): warning C4101: symbol: неиспользованная локальная переменная
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\postfix.h(94,25): warning C4244: аргумент: преобразование "double" в "t", возможна потеря данных
+          with
+          [
+              t=ll
+          ]
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\postfix.h(115,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\ex.h(37,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\ex.h(48): message : выполняется компиляция ссылки на экземпляр шаблон функции "void push_to_stack<char>(MyStack<char> &,std::string &)"
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\MyStack.h(69): warning C4715: MyStack<char>::pop: значение возвращается не при всех путях выполнения
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\MyStack.h(69): warning C4715: MyStack<int>::pop: значение возвращается не при всех путях выполнения
+C:\Users\User\Documents\учеба\4 семестр\саод\steak\MyStack.h(69): warning C4715: MyStack<__int64>::pop: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка C:\Users\User\Documents\учеба\4 семестр\саод\steak\Debug\stack.exe при последней инкрементной компоновке; выполняется полная компоновка
+  steak.vcxproj -> C:\Users\User\Documents\учеба\4 семестр\саод\steak\Debug\stack.exe
