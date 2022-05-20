@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(92,68): error C2039: "leght": не является членом "Queue<Person>".
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(23): message : см. объявление "Queue<Person>"
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(94,65): error C2039: "leght": не является членом "Queue<Person>".
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(23): message : см. объявление "Queue<Person>"
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(124,5): error C2059: синтаксическая ошибка: }
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(124,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(129,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\User\Documents\учеба\4 семестр\саод\ochred\main.cpp(129,1): error C2059: синтаксическая ошибка: }
